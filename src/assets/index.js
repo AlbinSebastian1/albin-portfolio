@@ -68,8 +68,10 @@ import backp from './personal/opened-clapperboard-white-table.jpg'
 
 import backp2 from './personal/1154.jpg'
 import backp3 from './personal/clapperboard-popcorn-film-stripe-cinema-tickets-wooden-desk.jpg'
+import login360 from './personal/login360.jpg'
+import sudioshades from './personal/sudio shades.jpg'
 
-export {donalt,doctor,kaili,maxresdefault,albin,albin2,backp,backp2,backp3,
+export {donalt,doctor,kaili,maxresdefault,albin,albin2,backp,backp2,backp3,login360,sudioshades,
   bwmap,
   nairobi,
   whiteabstract,

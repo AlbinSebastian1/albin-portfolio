@@ -40,6 +40,8 @@ import {
   kaili,
   doctor,
   maxresdefault,
+  login360,
+  sudioshades,
 } from '../assets';
 
 export const navLinks = [
@@ -104,14 +106,14 @@ const experiences = [
   {
     title: 'Senior Video editor',
     company_name: 'Login 360',
-    icon: coverhunt,
+    icon: login360,
     iconBg: '#333333',
     date: 'Jan 2023 - Apr 2023',
   },
   {
     title: 'Senior Video editor',
     company_name: 'Studio Shades & Capturing Weddings',
-    icon: microverse,
+    icon: sudioshades,
     iconBg: '#333333',
     date: 'Apr 2023 - Current',
   }
