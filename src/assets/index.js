@@ -58,8 +58,20 @@ import aftereffects from './icons/after-effects.png'
 import photoshop from './icons/photoshop.png'
 import DavinciResolve from './icons/davinc.png'
 import canva from './icons/canva.png'
+import donalt from './personal/donalt.jpg'
+import doctor from './personal/doctor.jpg'
+import kaili from './personal/kaili.jpg'
+import maxresdefault from './personal/maxresdefault.jpg'
+import albin from './personal/albin.jpg'
+import albin2 from './personal/albin2.png'
+import backp from './personal/opened-clapperboard-white-table.jpg'
 
-export {
+import backp2 from './personal/1154.jpg'
+import backp3 from './personal/clapperboard-popcorn-film-stripe-cinema-tickets-wooden-desk.jpg'
+import login360 from './personal/login360.jpg'
+import sudioshades from './personal/sudio shades.jpg'
+
+export {donalt,doctor,kaili,maxresdefault,albin,albin2,backp,backp2,backp3,login360,sudioshades,
   bwmap,
   nairobi,
   whiteabstract,

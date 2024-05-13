@@ -30,7 +30,7 @@ const ExperienceCard = ({ experience }) => (
     }
     iconStyle={{ background: experience.iconBg }}
     icon={
-      <div className="flex justify-center items-center w-full h-full">
+      <div className="flex justify-center items-center w-full h-full W-absolute">
         <img
           src={experience.icon}
           alt={experience.company_name}
@@ -102,7 +102,7 @@ const Experience = () => {
               ease-in-out"
               onClick={() =>
                 window.open(
-                  'resume link', //paste the link to your resume here
+                  'https://drive.google.com/file/d/1siDc6gC_jgEEEgp_iFltPF6R4H4AYmBn/view?usp=sharing', //paste the link to your resume here
                   '_blank'
                 )
               }

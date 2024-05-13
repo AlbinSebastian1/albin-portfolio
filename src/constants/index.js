@@ -36,6 +36,12 @@ import {
   photoshop,
   DavinciResolve,
   canva,
+  donalt,
+  kaili,
+  doctor,
+  maxresdefault,
+  login360,
+  sudioshades,
 } from '../assets';
 
 export const navLinks = [
@@ -100,14 +106,14 @@ const experiences = [
   {
     title: 'Senior Video editor',
     company_name: 'Login 360',
-    icon: coverhunt,
+    icon: login360,
     iconBg: '#333333',
     date: 'Jan 2023 - Apr 2023',
   },
   {
     title: 'Senior Video editor',
     company_name: 'Studio Shades & Capturing Weddings',
-    icon: microverse,
+    icon: sudioshades,
     iconBg: '#333333',
     date: 'Apr 2023 - Current',
   }
@@ -117,9 +123,9 @@ const projects = [
   {
     id: 'project-1',
     name: 'Donalt',
-    description: 'Short Flim ',
+    description: 'Direction & Video Editing & Cinemotography',
     
-    image: komikult,
+    image: donalt,
     demo: 'https://youtu.be/NYRakFiMs0c?si=mYDfYxvmokg3lPoG',
   },
   {
@@ -127,21 +133,21 @@ const projects = [
     name: 'Kaili | Music Video',
     description:
       '2D Animation',
-    image: leaderboard,
+    image: kaili,
     demo: 'https://youtu.be/8wJschH7YzA?si=rmXUVoQYAk1xgM67',
   },
   {
     id: 'project-3',
     name: 'Micro Monetization ',
-    description: 'Video Editing ',
-    image: math,
+    description: 'Visual Effects',
+    image: maxresdefault,
     demo: 'https://youtu.be/UC1BIedIzw8?si=aXMpivZ8A8DKR-su',
   },
   {
     id: 'project-4',
     name: 'Doctors Anthem Music',
-    description: `Assistant Direction `,
-    image: movie,
+    description: `Assistant Director `,
+    image: doctor,
     demo: 'https://youtu.be/jpsl3WasTp8?si=lxflxTNq8PU7kv8E',
   },
 ];
