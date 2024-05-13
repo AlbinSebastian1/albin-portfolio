@@ -65,11 +65,11 @@ const services = [
     icon: clapboard,
   },
   {
-    title: 'Cinemotography',
+    title: 'Cinematography',
     icon: videocamara ,
   },
   {
-    title: 'video editing',
+    title: 'Video Editing',
     icon: videoedit,
   },
   // {
@@ -115,7 +115,7 @@ const experiences = [
     company_name: 'Studio Shades & Capturing Weddings',
     icon: sudioshades,
     iconBg: '#333333',
-    date: 'Apr 2023 - Current',
+    date: 'Apr 2023 - At Present',
   }
 ];
 
@@ -123,7 +123,7 @@ const projects = [
   {
     id: 'project-1',
     name: 'Donalt',
-    description: 'Direction & Video Editing & Cinemotography',
+    description: 'Direction & Video Editing & Cinematography',
     
     image: donalt,
     demo: 'https://youtu.be/NYRakFiMs0c?si=mYDfYxvmokg3lPoG',
