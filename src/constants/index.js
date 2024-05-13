@@ -69,7 +69,7 @@ const services = [
     icon: videocamara ,
   },
   {
-    title: 'video editor',
+    title: 'video editing',
     icon: videoedit,
   },
   // {
